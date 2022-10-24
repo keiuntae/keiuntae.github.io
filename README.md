@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there 👋
 
 I'm Keiuntae Smith and I am a current student attending Bellevue University working on My Masters for Data Science. 
 
