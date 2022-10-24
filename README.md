@@ -1,3 +1,7 @@
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
+
 ### Hi there 👋
 
 I'm Keiuntae Smith and I am a current student attending Bellevue University working on My Masters for Data Science. 
