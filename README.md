@@ -9,4 +9,3 @@ This is my repository containing portfolio of data science projects completed by
 1. Install dependencies using requirements.txt.
 2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
-theme: Minima
