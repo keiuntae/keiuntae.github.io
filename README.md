@@ -14,5 +14,5 @@ This is my portfolio containing a repository of data science projects completed 
 
 # Project 1: Breast Cancer Prediction: Project Overview
 * Created a tool that predicts breast cancer through machine learning tactics by use of breast cancer data.
-* Used a Wisconsin breast cancer diagnostic data set from the UCI Machine Learning Repository
+* Utilized a Wisconsin breast cancer diagnostic data set from the UCI Machine Learning Repository
 * Optimized Logistic, Nearest Neighbor, Support Vector, Decision Tree, and Random Forest regressors to reach best model.
