@@ -17,4 +17,4 @@ This is my portfolio containing a repository of data science projects completed 
 * Utilized a Wisconsin breast cancer diagnostic data set from the UCI Machine Learning Repository
 * Optimized Logistic, Nearest Neighbor, Support Vector, Decision Tree, and Random Forest regressors to reach best model.
 
-![](https://github.com/keiuntae/keiuntae.github.io/blob/main/images/Model%20Accuracies%20Plot.png)
+![](/images/Model%20Accuracies%20Plot.png)
