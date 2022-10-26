@@ -12,7 +12,7 @@ This is my portfolio containing a repository of data science projects completed 
 1. Install dependencies using requirements.txt.
 2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
-#Project 1: Breast Cancer Prediction: Project Overview
-*Created a tool that predicts breast cancer through machine learning tactics by use of breast cancer data.
-*Used a Wisconsin breast cancer diagnostic data set from the UCI Machine Learning Repository
-*Optimized Logistic, Nearest Neighbor, Support Vector, Decision Tree, and Random Forest regressors to reach best model.
+# Project 1: Breast Cancer Prediction: Project Overview
+* Created a tool that predicts breast cancer through machine learning tactics by use of breast cancer data.
+* Used a Wisconsin breast cancer diagnostic data set from the UCI Machine Learning Repository
+* Optimized Logistic, Nearest Neighbor, Support Vector, Decision Tree, and Random Forest regressors to reach best model.
