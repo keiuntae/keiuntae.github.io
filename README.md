@@ -61,7 +61,7 @@ This is my portfolio containing a repository of data science projects completed 
 
 # [Project 5: House Price Prediction: Project Overview](https://github.com/keiuntae/keiuntae.github.io/tree/main/House%20Price%20Prediction)
 
-* This project uses linear regression method to predict house prices. 
+* a.	This project uses linear regression to predict sale price based on dependable data. 
 * Data was obtained from a housing dataset from Kaggle that examines data from various cities with several attributes:
   *	Date
   *	Price
