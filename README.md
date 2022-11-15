@@ -45,3 +45,17 @@ This is my portfolio containing a repository of data science projects completed 
 16.	Display the recommended list dataframe to include the movie selection and ten recommended movies (Nair, 2019)
 
 ![](/images/movies.jpeg)
+
+# [Project 4: Movie Database: Project Overview]( https://github.com/keiuntae/keiuntae.github.io/tree/main/Movie%20Database)
+
+* This project builds a movie database and generates a poster of the movie by reading an API.
+1.	Import libraries 
+2.	Load the secret API key from a JSON file and store in the same folder into a variable
+3.	Assign the portal to a variable
+4.	Write a utility function `print_json` to print nicely the movie data from a JSON file and define the print _json function 
+5.	Define the saved_poster function
+6.	Define the find_movie function
+7.	Search for desired movie
+
+![]( Movie%20Database/Weeks%209%20%26%2010%5CPosters%5C/Weeks%209%20%26%2010%5CPosters%5CThe%20Godfather.jpg)
+
