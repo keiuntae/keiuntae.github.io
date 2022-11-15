@@ -43,3 +43,5 @@ This is my portfolio containing a repository of data science projects completed 
 14.	Filter all movies that are correlated to 'Godfather, The (1972)' using the sort_values function
 15.	Merge the original movie dataset to show all fields
 16.	Display the recommended list dataframe to include the movie selection and ten recommended movies (Nair, 2019)
+
+![](/images/movies.jpeg)
