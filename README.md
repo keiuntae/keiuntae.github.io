@@ -63,23 +63,23 @@ This is my portfolio containing a repository of data science projects completed 
 
 * This project uses linear regression method to predict house prices. 
 * Data was obtained from a housing dataset from Kaggle that examines data from various cities with several attributes:
-*	Date
-**	Price
-o	Number of bedrooms
-o	Number of bathrooms	
-o	Square foot of total living space
-o	Square foot of the lot
-o	Number of floors
-o	Waterfront status
-o	View rating
-o	Condition rating
-o	Square foot of above
-o	Square foot the basement
-o	Year built
-o	Year renovated
-o	Street Address
-o	City
-o	State/Zip Code
-o	Country
+  *	Date
+  *	Price
+  *	Number of bedrooms
+  *	Number of bathrooms	
+  *	Square foot of total living space
+  *	Square foot of the lot
+  *	Number of floors
+  *	Waterfront status
+  *	View rating
+  *	Condition rating
+  *	Square foot of above
+  *	Square foot the basement
+  *	Year built
+  *	Year renovated
+  *	Street Address
+  *	City
+  *	State/Zip Code
+  *	Country
 
 ![](/images/distplot.png)
