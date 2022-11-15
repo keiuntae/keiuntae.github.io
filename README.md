@@ -83,3 +83,16 @@ This is my portfolio containing a repository of data science projects completed 
   *	Country
 
 ![](/images/distplot.png)
+
+# [Project 6: ALS Predictive Analysis: Project Overview]( https://github.com/keiuntae/keiuntae.github.io/tree/main/ALS%20Predictive%20Analysis)
+
+* This project uses principal component analysis to reduce dimensionality and clusters using ALS data.
+1.	Load the data and necessary libraries
+2.	Remove any data that is not relevant to the patient’s ALS condition.
+3.	Apply a standard scaler to the data.
+4.	Create a plot of the cluster silhouette score versus the number of clusters in a K-means cluster.
+5.	Fit a K-means model to the data with the optimal number of clusters 
+6.	Fit a PCA transformation with two features to the scaled data.
+7.	Make a scatterplot of the PCA transformed data coloring each point by its cluster value.
+
+![](/images/PCA%20Cluster%20Scatterplot.png)
