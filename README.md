@@ -18,3 +18,5 @@ This is my portfolio containing a repository of data science projects completed 
 * Optimized Logistic, Nearest Neighbor, Support Vector, Decision Tree, and Random Forest regressors to reach best model.
 
 ![](/images/Model%20Accuracies%20Plot.png)
+
+# [Project 2: MLB Attendance: Project Overview]
