@@ -23,4 +23,4 @@ This is my portfolio containing a repository of data science projects completed 
 * Use MLB data to make a recommendation on how to improve attendance
 * Data was obtained from the Los Angelas Dodgers Major League Baseball team
 
-![](/images/MLB%20Correlation%20Heatmap.jpg)
+![](/images/MLB%20Correlation%20Heatmap.jpeg)
