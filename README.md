@@ -19,4 +19,5 @@ This is my portfolio containing a repository of data science projects completed 
 
 ![](/images/Model%20Accuracies%20Plot.png)
 
-# [Project 2: MLB Attendance: Project Overview]
+# [Project 2: MLB Attendance: Project Overview](https://github.com/keiuntae/keiuntae.github.io/tree/main/MLB%20Attendance)
+
