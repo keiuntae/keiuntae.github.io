@@ -21,3 +21,5 @@ This is my portfolio containing a repository of data science projects completed 
 
 # [Project 2: MLB Attendance: Project Overview](https://github.com/keiuntae/keiuntae.github.io/tree/main/MLB%20Attendance)
 * Use MLB data to make a recommendation on how to improve attendance
+
+![](/images/MLB%20Correlation%20Heatmap.jpg)
