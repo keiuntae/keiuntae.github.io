@@ -59,3 +59,27 @@ This is my portfolio containing a repository of data science projects completed 
 
 ![]( Movie%20Database/Weeks%209%20%26%2010%5CPosters%5C/Weeks%209%20%26%2010%5CPosters%5CThe%20Godfather.jpg)
 
+# [Project 5: House Price Prediction: Project Overview](https://github.com/keiuntae/keiuntae.github.io/tree/main/House%20Price%20Prediction)
+
+* This project uses linear regression method to predict house prices. 
+* Data was obtained from a housing dataset from Kaggle that examines data from various cities with several attributes:
+o	Date
+o	Price
+o	Number of bedrooms
+o	Number of bathrooms	
+o	Square foot of total living space
+o	Square foot of the lot
+o	Number of floors
+o	Waterfront status
+o	View rating
+o	Condition rating
+o	Square foot of above
+o	Square foot the basement
+o	Year built
+o	Year renovated
+o	Street Address
+o	City
+o	State/Zip Code
+o	Country
+
+![](/images/distplot.png)
