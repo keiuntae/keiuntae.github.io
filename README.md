@@ -129,6 +129,5 @@ This is my portfolio containing a repository of data science projects completed 
 *	Data was obtained through the Kaggle website and is a fictional data set created by IBM data scientists.  It consists of 35 features selected by the data scientists that are various potential factors that could lead to employee attrition throughout a company.
 *	Conduct an initial EDA on the dataset. Succeeding the EDA, I used the Random Forest Classifier algorithm to learn from the data and see how accurate it was. 
 
-
-![] (/images/Feature%20Importance.jpg)
+![](/images/Feature%20Importance.jpg)
 
