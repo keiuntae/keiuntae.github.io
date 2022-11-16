@@ -109,3 +109,16 @@ This is my portfolio containing a repository of data science projects completed 
 
 ![](/images/retail%20sales.png)
 
+# [Project 8: API Data Pulling: Project Overview]( https://github.com/keiuntae/keiuntae.github.io/tree/main/API%20Data%20Pull)
+
+* This project demonstrates how to pull data from an API, clean the data, and store it in a SQL
+1.	Install the python-twitter library
+2.	Import the twitter library
+3.	Enter twitter app developer credentials (keys and tokens)
+4.	Display the API credentials 
+5.	Display data searching for "Bellevue University"
+6.	Display data searching for "Data Science"
+7.	Display data searching for "NBA Playoffs"
+
+
+![](/images/twitter%20image.jpeg)
