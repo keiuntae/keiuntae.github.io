@@ -96,3 +96,16 @@ This is my portfolio containing a repository of data science projects completed 
 7.	Make a scatterplot of the PCA transformed data coloring each point by its cluster value.
 
 ![](/images/PCA%20Cluster%20Scatterplot.png)
+
+# [Project 7: Retail Sales Time Series Modeling: Project Overview]( https://github.com/keiuntae/keiuntae.github.io/tree/main/Retail%20Sales)
+
+* This project predicts monthly retail sales by building and fitting an AR model.  
+1.	Import libraries and load data
+2.	Plot the data with proper labeling and make some observations on the graph.
+3.	Split this data into a training and test set.
+4.	Use the training set to build a predictive model for monthly retail sales.
+5.	Use the model to predict the monthly retail sales on the last year of data.
+6.	Report the RMSE of the model predictions on the test set.
+
+![](/images/retail%20sales.png)
+
