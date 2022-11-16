@@ -12,8 +12,8 @@ I'm Keiuntae Smith and I am a current student attending Bellevue University work
 
 **Artificial Intelligence/Machine Learning**:  Explored practical applications for AI in the 2020s that enable decision-making, image and speech recognition, problem-solving, and translation, creating an evolving, potentially endless future of computer evolution.
 
-### Contact Information
-tramal23@hotmail.com
+### Connect With Me
+[<ing align-"left" alt-"holistic_developer | LinkedIn" width-"22px" src-"https://www.linkedin.com/in/keiuntae-smith-1696b068/" />][linkedin]
 
 # Data Science Portfolio
 This is my portfolio containing a repository of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks, and R markdown files (published at RPubs).
