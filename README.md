@@ -157,4 +157,4 @@ This is my portfolio containing a repository of data science projects completed 
     *	relation: Relation of person who completed the test 
     *	Class/ASD: Participant classification 
 
-![]( / images/ASD_traits.jpg)
+![](/images/ASD_traits.jpg)
