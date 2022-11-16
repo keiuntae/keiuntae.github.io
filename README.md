@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-I'm Keiuntae Smith and I am a current student attending Bellevue University working on My Masters for Data Science. 
+I'm Keiuntae Smith and I am a current student attending Bellevue University working on My Masters for Data Science. During this program, I have attained excellent knowledge in the following areas: 
+
+**Data analysis**: Obtained the basics of data analysis and how to apply those concepts to technologies used in data science, including machine learning algorithms, artificial intelligence (AI), and advanced coding.
+
+**Data mining**: Learned to sift through large volumes of data to find the nuggets of actionable items based on patterns and predictive analysis.
+
+**Data visualization**: Ability to process data into physical form in the shape of tables, graphs, histograms, and maps.
+
+**Data wrangling**: Learned how to process and transform data into more readily used formats. 
+
+**Artificial Intelligence/Machine Learning**:  Explored practical applications for AI in the 2020s that enable decision-making, image and speech recognition, problem-solving, and translation, creating an evolving, potentially endless future of computer evolution.
 
 ### Contact Information
 tramal23@hotmail.com
