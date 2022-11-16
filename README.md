@@ -130,5 +130,5 @@ This is my portfolio containing a repository of data science projects completed 
 *	Conduct an initial EDA on the dataset. Succeeding the EDA, I used the Random Forest Classifier algorithm to learn from the data and see how accurate it was. 
 
 
-![](/images/ Feature%20Importance.jpg)
+![] (/images/Feature%20Importance.jpg)
 
