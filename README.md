@@ -131,3 +131,30 @@ This is my portfolio containing a repository of data science projects completed 
 
 ![](/images/Feature%20Importance.jpg)
 
+# [Project 10: Autism Prediction: Project Overview]( https://github.com/keiuntae/keiuntae.github.io/tree/main/Autism%20Prediction)
+
+*	This project predicts autism in individuals using machine learning through a screening app. 
+*	The data was obtained through Kaggle that consists of the following features: 
+    *	A1_Score I often notice small sounds when others do not 
+    *	A2_Score I usually concentrate more on the whole picture, rather than the small details 
+    *	A3_Score I find it easy to do more than one thing at once 
+    *	A4_Score If there is an interruption, I can switch back to what I was doing very quickly 
+    *	A5_Score I find it easy to ‘read between the lines’ when someone is talking to me 
+    *	A6_Score I know how to tell if someone listening to me is getting bored 
+    *	A7_Score When I’m reading a story I find it difficult to work out the characters’ intentions 
+    *	A8_Score I like to collect information about categories of things (e.g. types of cars, birds, trains, etc) 
+    *	A9_Score I find it easy to work out what someone is thinking or feeling just by looking at their face 
+    *	A10_Score I find it difficult to work out people’s intentions 
+    *	age: Participant age in years 
+    *	gender: Participant gender 
+    *	ethnicity: Participant ethnicity 
+    *	jundice: Whether or not the participant was born with jaundice? 
+    *	austim: Whether or not anyone in tbe immediate family has been diagnosed with autism? 
+    *	contry_of_res: Countries 
+    *	used_app_before: Whether the participant has used a screening app 
+    *	result: The total score from the AQ-10 screen 
+    *	age_desc: Age as categorical 
+    *	relation: Relation of person who completed the test 
+    *	Class/ASD: Participant classification 
+
+![]( / images/ASD_traits.jpg)
